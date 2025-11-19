@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">परीक्षा ऑनलाइन पोर्टल</string>
+    <string name="login">लॉगिन</string>
+    <string name="username">वापरकर्ता नाव</string>
+    <string name="password">पासवर्ड</string>
+    <string name="don_t_have_an_account_register">खाते नाही? नोंदणी करा</string>
+    <string name="exam_online_portal">परीक्षा ऑनलाइन पोर्टल</string>
+    <string name="welcome_to_exam_online_portal">परीक्षा ऑनलाइन पोर्टलमध्ये स्वागत आहे!</string>
+    <string name="welcome_to_exam_portal">परीक्षा पोर्टलमध्ये स्वागत आहे!</string>
+    <string name="start_exam">परीक्षा सुरू करा</string>
+    <string name="_1_the_exam_is_30_minutes_long_n2_do_not_switch_apps_during_the_exam_n3_each_question_carries_1_mark">
+        1. परीक्षा 30 मिनिटांची आहे.\n2. परीक्षेदरम्यान अ‍ॅप्स स्विच करू नका.\n3. प्रत्येक प्रश्नासाठी 1 गुण आहेत.
+    </string>
+    <string name="instructions">सूचना:</string>
+    <string name="submit">सबमिट करा</string>
+    <string name="next">पुढे</string>
+    <string name="option_d">पर्याय D</string>
+    <string name="option_c">पर्याय C</string>
+    <string name="option_b">पर्याय B</string>
+    <string name="option_a">पर्याय A</string>
+    <string name="question_will_appear_here">प्रश्न येथे दिसेल</string>
+    <string name="exam_name">परीक्षेचे नाव</string>
+    <string name="finish">समाप्त करा</string>
+    <string name="performance_message">कामगिरी संदेश</string>
+    <string name="your_score_0_0">तुमचा स्कोर: 0/0</string>
+    <string name="exam_completed">परीक्षा पूर्ण झाली!</string>
+    <string name="register">नोंदणी</string>
+    <string name="enter_password">पासवर्ड टाका</string>
+    <string name="enter_username">वापरकर्ता नाव टाका</string>
+    <string name="your_score">तुमचा स्कोर:</string>
+    <string name="back_to_home">मुख्यपृष्ठावर परत जा</string>
+    <string name="_0_10">0 / 10</string>
+</resources>

@@ -1,0 +1,40 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">ExamOnlinePortal</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account_register">Don’t have an account? Register</string>
+    <string name="exam_online_portal">Exam Online Portal</string>
+    <string name="welcome_to_exam_online_portal">Welcome to Exam Online Portal!</string>
+    <string name="welcome_to_exam_portal">Welcome to Exam Portal!</string>
+    <string name="start_exam">Start Exam</string>
+    <string name="_1_the_exam_is_30_minutes_long_n2_do_not_switch_apps_during_the_exam_n3_each_question_carries_1_mark">1. The exam is 30 minutes long.\n2. Do not switch apps during the exam.\n3. Each question carries 1 mark.</string>
+    <string name="instructions">Instructions:</string>
+    <string name="submit">Submit</string>
+    <string name="next">Next</string>
+    <string name="option_d">Option D</string>
+    <string name="option_c">Option C</string>
+    <string name="option_b">Option B</string>
+    <string name="option_a">Option A</string>
+    <string name="question_will_appear_here">Question will appear here</string>
+    <string name="exam_name">Exam Name</string>
+    <string name="finish">Finish</string>
+    <string name="performance_message">Performance Message</string>
+    <string name="your_score_0_0">Your Score: 0/0</string>
+    <string name="exam_completed">Exam Completed!</string>
+    <string name="register">Register</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="enter_username">Enter Username</string>
+
+    <!-- ✅ These are the required corrected/used strings -->
+    <string name="your_score">Your Score:</string>
+    <string name="back_to_home">Back to Home</string>
+    <string name="_0_10">0 / 10</string>
+    <string name="confirm_password" tools:ignore="MissingTranslation">confirm_password</string>
+    <string name="question_will_go_here" tools:ignore="MissingTranslation">Question will go here</string>
+    <string name="exam_title" tools:ignore="MissingTranslation">Exam Title</string>
+    <string name="app_logo" tools:ignore="MissingTranslation">App Logo</string>
+    <string name="_1_read_all_questions_carefully_n2_you_will_have_30_minutes_to_complete_the_exam_n3_once_submitted_answers_cannot_be_changed">1. Read all questions carefully.\n2. You will have 30 minutes to complete the exam.\n3. Once submitted, answers cannot be changed.</string>
+    <string name="exam_instructions">Exam Instructions</string>
+    <string name="exam_name_here">Exam Name Here</string>
+</resources>

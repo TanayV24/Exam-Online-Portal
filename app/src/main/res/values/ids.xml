@@ -1,0 +1,4 @@
+<resources>
+    <item name="btnRegister" type="id" />
+    <item name="tvExamName" type="id" />
+</resources>

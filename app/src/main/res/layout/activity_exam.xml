@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="16dp"
+    android:background="#FAFAFA">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="8dp">
+
+        <!-- Exam Title -->
+        <TextView
+            android:id="@+id/tvExamTitle"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/exam_title"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:layout_marginBottom="16dp" />
+
+        <!-- Question -->
+        <TextView
+            android:id="@+id/tvQuestion"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/question_will_go_here"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:layout_marginBottom="16dp"
+            android:textColor="#333333" />
+
+        <!-- Options -->
+        <RadioGroup
+            android:id="@+id/radioGroupOptions"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RadioButton
+                android:id="@+id/rbOptionA"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:minHeight="48dp"
+                android:text="Option A"
+                tools:ignore="HardcodedText" />
+
+            <RadioButton
+                android:id="@+id/rbOptionB"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Option B"
+                tools:ignore="HardcodedText" />
+
+            <RadioButton
+                android:id="@+id/rbOptionC"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Option C"
+                tools:ignore="HardcodedText" />
+
+            <RadioButton
+                android:id="@+id/rbOptionD"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Option D"
+                tools:ignore="HardcodedText" />
+        </RadioGroup>
+
+        <!-- Buttons -->
+        <Button
+            android:id="@+id/btnNext"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="24dp"
+            android:layout_marginBottom="12dp"
+            android:backgroundTint="#4CAF50"
+            android:text="Next"
+            android:textAllCaps="false"
+            android:textColor="#263238"
+            tools:ignore="HardcodedText,VisualLintButtonSize" />
+
+        <Button
+            android:id="@+id/btnSubmit"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Submit"
+            android:textAllCaps="false"
+            android:backgroundTint="#2196F3"
+            android:textColor="#FFFFFF"
+            android:visibility="gone"
+            tools:ignore="HardcodedText" />
+    </LinearLayout>
+</ScrollView>
